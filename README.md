@@ -1,7 +1,7 @@
 # cs302
 
-##Objectives
+## Objectives
 
-##Details
+## Details
 
-##Conclusion
+## Conclusion
